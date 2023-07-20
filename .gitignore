@@ -1,0 +1,5 @@
+repo.txt
+env/
+.ipynb_checkpoints/
+*.ipynb
+*.pyc
